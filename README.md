@@ -4,6 +4,10 @@
 - 类别二
 
 
-<video src="https://v.qq.com/x/cover/mzc002008fcngwr/z0043xe9x5g.html"></video>
+<video width="320" height="240" controls>
+  <source src="https://v.qq.com/x/cover/mzc002008fcngwr/z0043xe9x5g.html" type="video/mp4">
+</video>
+
+<video src=""></video>
 
 
